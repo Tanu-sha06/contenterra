@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SignalTrace V2 — Evidence-Driven AI Investigator
 
 An evidence-based Python application that investigates e-commerce complaints regarding duplicate charges, repeated payment failures, and shipments created before payment.
@@ -57,3 +58,6 @@ python main.py --payments data/sample/payments.csv --shipments data/sample/shipm
 ```bash
 python -m unittest test_investigator.py
 ```
+=======
+# contenterra
+>>>>>>> aa6656b6b2a2b15c54321e17388deca2aab247ff
